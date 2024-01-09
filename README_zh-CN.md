@@ -5,10 +5,10 @@
 * 此仓库将**不会**随着游戏的更新而不定时更新（因为作者很懒）.
 * 该仓库**仅**用于链接归档，下载后请于24小时内删除.
 * 没有人可以为此仓库贡献.
-* .9991来未返重
+* .9991 :来未返重
 
 ----
-## Reverse 1999
+## 重返未来：1999
 ![Banner_1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner_1.5.png)
 
 
