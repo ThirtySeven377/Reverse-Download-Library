@@ -2,9 +2,9 @@
 [EN](README.md) | [简中(未完成)](README_zh-CN.md)
 
 **Note**: 
-* This repository will update from time to time when new version of the game gets released.
-* This repository is for archive purposes only.
-* Anyone can contribute to this Repository.
+* This repository will not update from time to time when new version of the game gets released.
+* This repository is for archive purposes ONLY.
+* No one can contribute to this Repository.
 * .desreveR
 
 ----
@@ -15,7 +15,7 @@
 
 ### What is _"hk"_ and _"cn.reverse"_
 * **hk** - Reverse Importance
-* **cn.reverse** - Reverse or 重返未来
+* **cn.reverse** - Reverse or 重返
 
 ### What's the difference between _"Reverse Importance"_ and _"Reverse"_?
 * **Reverse Importance** - Overseas/Global Version
@@ -45,9 +45,9 @@
 
 ### What is _"OS_Beta"_ and _"CN_Beta"_
 * **OS_Beta** - 1999
-* **CN_Beta** - CWEL Or 未来：99
+* **CN_Beta** - CFWL Or 未来：99
 
-### What's the difference between _"1999"_ and _"CWEL"_?
+### What's the difference between _"1999"_ and _"CFWL"_?
 * **1999** - Overseas/Global Version (OS)
 * **CFWL** - Chinese Version (CN)
 
