@@ -8,52 +8,17 @@
 * .desreveR
 
 ----
-## 0
+![Banner_1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner_1.5.png)
+
+## Reverse 1999
 
 ### What's inside
-* Links of the **_"hk"_** and **_"cn.reverse"_** versions of the Reverse Imp **Release**, **CB**, **CE**, **Hotfixes** and **Audio** files
+* Links of the **_"OS"_** and **_"CN"_** versions of the Reverse 1999 **Release** and **Audio** files
 
-### What is _"hk"_ and _"cn.reverse"_
-* **hk** - Reverse Importance
-* **cn.reverse** - Reverse or 重返
+### What is _"OS"_ and _"CN"_
+* **OS** - Reverse 1999
+* **CN** - 重返未来：1999
 
-### What's the difference between _"Reverse Importance"_ and _"Reverse"_?
-* **Reverse Importance** - Overseas/Global Version
-* **Reverse** - Chinese Version
-
------
-
-## 1
-
-### What's inside
-* Links of the **_"aos"_** and **_"cn.19"_** versions of the R: 19/CF: 19 **Release**, **Beta**, **Hotfixes** and **Audio** files
-
-### What is _"aos"_ and _"cn.19"_
-* **aos** - R: 19
-* **cn.19** - CF: 19 or 重返：19
-
-### What's the difference between _"R: 19"_ and _"CF: 19"_?
-* **R: 19** - Overseas/Global Version (OS)
-* **CF: 19** - Chinese Version (CN)
-
------
-
-## 2
-
-### What's inside
-* Mirror links of 1999 **Beta** files
-
-### What is _"OS_Beta"_ and _"CN_Beta"_
-* **OS_Beta** - 1999
-* **CN_Beta** - CFWL Or 未来：99
-
-### What's the difference between _"1999"_ and _"CFWL"_?
-* **1999** - Overseas/Global Version (OS)
-* **CFWL** - Chinese Version (CN)
-
------
-
-## 3
-
-### Vereseved Importance 3rd (VI3)
-* For Future Plan
+### What's the difference between _"Reverse 1999"_ and _"重返未来：1999"_?
+* **Reverse 1999** - Overseas/Global Version
+* **重返未来：1999** - Chinese Version
