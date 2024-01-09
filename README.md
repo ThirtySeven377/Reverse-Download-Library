@@ -1,67 +1,59 @@
-# Anime-Games-Download-Library
-![Anime_Game_Company_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/Anime_Game_Company_Banner.png?raw=true)
-[EN](README.md) | [简中](README_zh-CN.md)
+# Reverse-Download-Library
+[EN](README.md) | [简中(未完成)](README_zh-CN.md)
 
 **Note**: 
 * This repository will update from time to time when new version of the game gets released.
 * This repository is for archive purposes only.
 * Anyone can contribute to this Repository.
-* This repository is sort of forked from https://github.com/MAnggiarMustofa/GI-Download-Library
+* .desreveR
 
 ----
-## Genshin Impact / Yuanshen (GI)
-![GI_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/GI_Banner.png?raw=true)
-### Tips
-Since the 3.1.5 beta, mihoyo has added key and cookie verification to the download link.
-
-(if you are a tester, do not share your key pair, it’s based on your IP address and other personal information, cognosphere or mihoyo can easily find and punish you.)
+## 0
 
 ### What's inside
-* Links of the **_"autopatchhk"_** and **_"autopatchcn.yuanshen"_** versions of the Genshin/Yuanshen **Release**, **Beta(CB)**, **Devkit(CE)**, **Hotfixes** and **Audio** files
-* BEGGING SOMEONE LEAK SPECIAL CLOSED BETA (深测版) PLEASE!!! :sob: :sob: :sob:
+* Links of the **_"hk"_** and **_"cn.reverse"_** versions of the Reverse Imp **Release**, **CB**, **CE**, **Hotfixes** and **Audio** files
 
-### What is _"autopatchhk"_ and _"autopatchcn.yuanshen"_
-* **autopatchhk** - Genshin Impact
-* **autopatchcn.yuanshen** - Yuanshen or 原神
+### What is _"hk"_ and _"cn.reverse"_
+* **hk** - Reverse Importance
+* **cn.reverse** - Reverse or 重返未来
 
-### What's the difference between _"Genshin"_ and _"Yuanshen"_?
-* **Genshin Impact** - Overseas/Global Version
-* **Yuanshen** - Chinese Version
+### What's the difference between _"Reverse Importance"_ and _"Reverse"_?
+* **Reverse Importance** - Overseas/Global Version
+* **Reverse** - Chinese Version
 
 -----
 
-## Honkai: Star Rail (HSR)
-![HSR_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/HSR_Banner.png?raw=true)
+## 1
+
 ### What's inside
-* Links of the **_"autopatchaos"_** and **_"autopatchcn.hbsr"_** versions of the Honkai: Star Rail/Benghuai: Star Rail **Beta** files
+* Links of the **_"aos"_** and **_"cn.19"_** versions of the R: 19/CF: 19 **Release**, **Beta**, **Hotfixes** and **Audio** files
 
-### What is _"autopatchaos"_ and _"autopatchcn.hbsr"_
-* **autopatchaos** - Honkai: Star Rail
-* **autopatchcn.hbsr** - Benghuai: Star Rail or 崩坏：星穹铁道
+### What is _"aos"_ and _"cn.19"_
+* **aos** - R: 19
+* **cn.19** - CF: 19 or 重返：19
 
-### What's the difference between _"Honkai: Star Rail"_ and _"Benghuai: Star Rail"_?
-* **Honkai: Star Rail** - Overseas/Global Version
-* **Benghuai: Star Rail** - Chinese Version
+### What's the difference between _"R: 19"_ and _"CF: 19"_?
+* **R: 19** - Overseas/Global Version (OS)
+* **CF: 19** - Chinese Version (CN)
 
 -----
 
-## Zenless Zone Zero (ZZZ)
-![ZZZ_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/ZZZ_Banner.png?raw=true)
+## 2
+
 ### What's inside
-* Mirror links of Zenless Zone Zero **Beta** files
+* Mirror links of 1999 **Beta** files
 
-### What is _"OS-Beta"_ and _"CN-Beta"_
-* **OS-Beta** - Zenless Zone Zero
-* **CN-Beta** - Jue Qu Ling or 绝区零
+### What is _"OS_Beta"_ and _"CN_Beta"_
+* **OS_Beta** - 1999
+* **CN_Beta** - CWEL Or 未来：99
 
-### What's the difference between _"Zenless Zone Zero"_ and _"Jue Qu Ling"_?
-* **Zenless Zone Zero** - Overseas/Global Version
-* **Jue Qu Ling** - Chinese Version
+### What's the difference between _"1999"_ and _"CWEL"_?
+* **1999** - Overseas/Global Version (OS)
+* **CFWL** - Chinese Version (CN)
 
 -----
 
-## Honkai Impact 3rd (BH3)
-![BH3_Banner](https://github.com/Focalors-Free/Anime-Games-Download-Library/blob/main/.ignore/media/BH3_Banner.png?raw=true)
+## 3
 
-### placeHolder1
+### Vereseved Importance 3rd (VI3)
 * For Future Plan
