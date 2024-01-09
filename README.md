@@ -1,5 +1,5 @@
 # Reverse-Download-Library      yrarbiL-daolnwoD-esreveR #
-[EN](README.md) | [简中(未完成)](README_zh-CN.md)
+[EN](README.md) | [简中](README_zh-CN.md)
 
 **Note**: 
 * This repository will **not** update from time to time when new version of the game gets released.
