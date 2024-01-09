@@ -2,14 +2,13 @@
 [EN](README.md) | [简中(未完成)](README_zh-CN.md)
 
 **Note**: 
-* This repository will not update from time to time when new version of the game gets released.
-* This repository is for archive purposes ONLY.
+* This repository will **not** update from time to time when new version of the game gets released.
+* This repository is for archive purposes **ONLY**.
 * No one can contribute to this Repository.
-* .desreveR
+* .9991esreveR
 
 ----
 ## Reverse 1999
--
 ![Banner_1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner_1.5.png)
 
 
