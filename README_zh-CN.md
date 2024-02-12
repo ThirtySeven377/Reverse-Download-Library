@@ -9,7 +9,7 @@
 
 ----
 ## 重返未来：1999
-![Banner_1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner_1.5.png)
+![Banner.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner.png)
 
 
 ### 芝士神马
@@ -22,3 +22,7 @@
 ### _"Reverse 1999"_ 和 _"重返未来：1999"_ 这两个版本有什么区别？
 * **Reverse 1999** - 国际版-OS版
 * **重返未来：1999** - 中国版-CN版
+
+### 过去版本官方图收集
+
+![1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.5.png)

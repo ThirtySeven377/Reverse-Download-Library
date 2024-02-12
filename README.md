@@ -9,7 +9,7 @@
 
 ----
 ## Reverse 1999
-![Banner_1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner_1.5.png)
+![Banner.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/Banner.png)
 
 
 ### What's inside
@@ -22,3 +22,7 @@
 ### What's the difference between _"Reverse 1999"_ and _"重返未来：1999"_?
 * **Reverse 1999** - Overseas/Global Version
 * **重返未来：1999** - Chinese Version
+
+### Past Version Banners
+
+![1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.5.png)
