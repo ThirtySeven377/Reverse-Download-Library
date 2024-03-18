@@ -23,6 +23,33 @@
 * **Reverse 1999** - 国际版-OS版
 * **重返未来：1999** - 中国版-CN版
 
-### 过去版本官方图收集
-
+### 过去官方版本图收集
+1.6
+![1.6.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.6.png)
+---
+1.5
 ![1.5.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.5.png)
+---
+1.4
+![1.4.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.4.png)
+---
+1.3
+![1.3.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.3.png)
+---
+1.2
+![1.2.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.2.png)
+---
+1.1
+![1.1.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.1.png)
+---
+1.0
+![1.0.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/1.0.png)
+---
+CBT3
+![CBT3.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/CBT3.png)
+---
+CBT2
+![CBT2.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/CBT2.png)
+---
+CBT1
+![CBT1.png](https://raw.githubusercontent.com/ThirtySeven377/Reverse-Download-Library/main/.ignore/media/CBT1.png)
