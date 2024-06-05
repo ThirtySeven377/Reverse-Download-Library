@@ -9,3 +9,4 @@
 **[Launcher | 2.4.5x](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/25/update_20220117112259_c09e8ddf7wIlNYRv.zip)**
 
 **[Launcher | 2.5.5x](https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/26/update_20220304110551_535dd34e7qwbZ9p5.zip)**
+
